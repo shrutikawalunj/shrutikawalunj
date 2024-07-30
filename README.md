@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrutikawalunj
 - 👀 I’m interested in sketching
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on study
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 
 <!---
