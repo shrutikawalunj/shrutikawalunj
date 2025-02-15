@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shrutikawalunj
 - 👀 I’m interested in sketching
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me 
+- shrutikavwalunj@gmail.com
 
 <!---
 shrutikawalunj/shrutikawalunj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
